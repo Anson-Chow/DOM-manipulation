@@ -45,4 +45,4 @@ function renderTodos() {
     .join("");
 }
 
-renderTodos();
+// renderTodos(); Don't need this on mount
